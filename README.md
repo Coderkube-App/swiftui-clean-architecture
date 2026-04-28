@@ -1,4 +1,4 @@
-# SwiftUI Clean Architecture Template
+# SwiftUI Clean Architecture
 
 Production-ready SwiftUI application demonstrating a scalable architecture and real-world implementation using modern iOS development practices.
 

@@ -91,7 +91,7 @@ API → DTO → Repository → Entity → ViewModel → View
 1. Clone the repository
 
 ```bash id="swift-clone"
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Coderkube-App/swiftui-clean-architecture.git
 ```
 
 2. Install XcodeGen (if required)
